@@ -1,0 +1,14 @@
+{
+  "name": "cryweb",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "main": ".js",
+  "scripts": {
+    "build": "npx rollup src/index.js > .js",
+    "prepublishOnly": "npm run build"
+  },
+  "author": "planetrenox",
+  "funding": "https://bit.ly/incessant-vibration",
+  "unpkg": ".js"
+}
