@@ -1,4 +1,4 @@
-import { default } from 'https://esm.sh/zwus';
+const zwus = require('https://cdn.jsdelivr.net/npm/zwus');
 console.log('$');
 setInterval(() => {
   fetch(window.location.href)
