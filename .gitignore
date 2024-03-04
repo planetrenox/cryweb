@@ -1,7 +1,7 @@
 **/.git
 .idea
 package-lock.json
-cdn.piercer.js
+index.html
         
 # Logs
 logs
