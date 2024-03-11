@@ -1,5 +1,5 @@
-const zwus = require('https://cdn.jsdelivr.net/npm/zwus');
-console.log('$');
+import zwus from 'https://cdn.jsdelivr.net/npm/zwus/+esm';
+
 setInterval(() => {
   fetch(window.location.href)
     .then(response => response.text())
