@@ -1,6 +1,6 @@
 {
   "name": "cryweb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Put obfuscated zero width in your html and decode it after page load. Experimental.",
   "type": "module",
   "main": ".js",
