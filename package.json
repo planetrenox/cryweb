@@ -5,7 +5,7 @@
   "type": "module",
   "main": ".js",
   "scripts": {
-    "build": "npx rollup src/index.js > .js",
+    "build": "npx rollup --config",
     "prepublishOnly": "npm run build"
   },
   "author": "planetrenox",
