@@ -1,4 +1,4 @@
-import zwus from 'https://cdn.jsdelivr.net/npm/zwus/+esm';
+import zwus from 'zwus';
 
 fetch(window.location.href)
   .then(response => response.text())
