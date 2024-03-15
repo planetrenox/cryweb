@@ -5,7 +5,7 @@ export default {
    input: "./src/index.js",
    output: {
       file: ".js",
-      format: "cjs",
+      format: "esm",
    },
    plugins: [
       babel({ exclude: "node_modules/**" }),
