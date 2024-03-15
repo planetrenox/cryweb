@@ -10,5 +10,8 @@
   },
   "author": "planetrenox",
   "funding": "https://bit.ly/incessant-vibration",
-  "unpkg": ".js"
+  "unpkg": ".js",
+  "devDependencies": {
+    rollup@plugin-babel: "latest",
+  }
 }
