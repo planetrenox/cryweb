@@ -13,6 +13,6 @@
   "unpkg": ".js",
   "devDependencies": {
     "@rollup/plugin-babel": "latest",
-    "@rollup/plugin-node-resolve"
+    "@rollup/plugin-node-resolve": "latest"
   }
 }
