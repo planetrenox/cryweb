@@ -12,6 +12,6 @@
   "funding": "https://bit.ly/incessant-vibration",
   "unpkg": ".js",
   "devDependencies": {
-    "rollup@plugin-babel": "latest"
+    "@rollup/plugin-babel": "latest"
   }
 }
